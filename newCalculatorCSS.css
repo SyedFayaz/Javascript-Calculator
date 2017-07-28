@@ -1,0 +1,75 @@
+    
+.calculatorStyle {
+       
+    font: 95% Arial, Helvetica, sans-serif;
+    max-width: 270px;
+    margin: 10px auto;
+    padding: 16px;
+    background: #F7F7F7;
+}
+
+ 
+.calculatorStyle h1 {
+    background: #43D1AF;
+    padding: 20px 0;
+    font-size: 140%;
+    font-weight: 300;
+    text-align: center;
+    color: #fff;
+    margin: -16px -16px 16px -16px;
+}
+
+
+.calculatorStyle #clear {
+
+    width: 188px;
+    height: 60px;
+    padding: 3%;
+    background: #43D1AF;
+    /*margin-bottom: 1%;*/
+    border: none;    
+    color: #fff;
+    font-weight: 900;
+}
+
+.calculatorStyle #equal {
+
+    width: 125px;
+    height: 60px;
+    padding: 3%;
+    background: #43D1AF;
+    /*margin-bottom: 1%;*/
+    border: none;   
+    color: #fff;
+    font-weight: 900;
+}
+
+
+.calculatorStyle #one,#two,#three,#four,#five,#six,#seven,#eight,#nine,#zero,#add,#mul,#sub,#div,#dot {
+
+    width: 60px;
+    height: 60px;
+    padding: 3%;
+    background: #43D1AF;
+    /*margin-bottom: 1%;*/
+    border: none;    
+    color: #fff;
+    font-weight: 900;
+}
+.calculatorStyle input[type=text] {
+        
+    width: 250px;
+    height: 60px;
+    background: #fff;
+    margin-bottom: 4%;
+    border: 1px solid #ccc;
+    padding: 3%;
+    color: #555;
+    font: 95% Arial, Helvetica, sans-serif;
+}
+
+.calculatorStyle #info {
+
+    text-indent: 40px;
+    font-weight: 600;
+}
